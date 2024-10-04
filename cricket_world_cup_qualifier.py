@@ -7,3 +7,5 @@ elif x>12:
     print("qualified")
 else :
     print("not qualified")
+
+#codechef showing invalid submission!
