@@ -9,3 +9,5 @@ else :
     print("not qualified")
 
 #codechef showing invalid submission!
+#problems encountere
+#1 else statement doesnt take any conditions of x
