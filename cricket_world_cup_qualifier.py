@@ -1,13 +1,13 @@
 #Problem 2
 
-x=int(input('Enter the points in group stage '))
+x=int(input())
 if x>20:
-    print("invalid input value")
-elif x>12:
-    print("qualified")
+    print("")
+elif x>=12:
+    print("yes")
 else :
-    print("not qualified")
+    print("no")
 
 #codechef showing invalid submission!
-#problems encountere
+#problems encountered
 #1 else statement doesnt take any conditions of x

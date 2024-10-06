@@ -1,8 +1,7 @@
 
 # MY code
-x=int(input('daily cost of mess food'))
-y=int(input('sunday meals charges'))
-print("the weekly cost of food is ",x*6+y)
+x, y = map(int, input().split())
+print(x*6+y)
 
 #chatgpts code
 input_str = input('mess charges (enter two values separated by space) = ')
