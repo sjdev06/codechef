@@ -9,3 +9,13 @@ print(4+(x-1)*3)
 x,y=map(int,input().split())
 print(x*y)
 
+#MINWAGE
+x=int(input())
+if x>11:
+    print("yes")
+else:
+    print("no")
+
+#CLDPLYTKT
+x=int(input())
+print((x+1)*5000)
