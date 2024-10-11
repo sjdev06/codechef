@@ -32,3 +32,10 @@ if x==404:
     print("NOT FOUND")
 else:
     print("FOUND")
+
+#NEWSPAPER
+x=int(input())
+if x<=7:
+    print("no")
+else:
+    print("yes")
