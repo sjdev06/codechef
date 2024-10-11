@@ -19,3 +19,16 @@ else:
 #CLDPLYTKT
 x=int(input())
 print((x+1)*5000)
+
+#PRACLIST
+# cook your dish here
+x,y=map(int,(input()).split())
+print(x-y)
+
+#ERROR404
+# cook your dish here
+x=int(input())
+if x==404:
+    print("NOT FOUND")
+else:
+    print("FOUND")
